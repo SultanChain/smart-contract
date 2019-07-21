@@ -1,7 +1,7 @@
 # SultanChain (STN) Token
 SultanChain (STN) Smart Contract
 
-SultanChain is an ERC20 token based on Etehereum blockchain. SultanChain was formed by AirDropper community who wanted to participate in enlivening the crypto market share for economic purposes. SultanChain tokens (STN) are tokens that have features:
+SultanChain is an ERC20 token based on Etehereum blockchain. SultanChain was formed by AirDropper community who wanted to participate in enlivening the crypto market share not only aims to take economic advantage but learn while you earn about crypto and further increase the brotherhood between community members. SultanChain tokens (STN) are tokens that have features:
 
 1. Deflationary tokens, where the total supply of tokens will decrease when user transferring token between wallets. Supply will be reduced by 1% for each token transferred.
 2. SultanChain protects users from unauthorized use of tokens taken by freezing the wallet address.
